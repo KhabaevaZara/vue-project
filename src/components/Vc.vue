@@ -2,7 +2,7 @@
   <div>
     <div class="game-modal">
       <div class="content">
-        <img src="/vue-project/public/" alt="gif">
+        <img src="/src/assets/images/lost.gif" alt="gif" />
         <h6></h6>
         <p><b></b></p>
         <button class="play-again">Play again</button>
@@ -11,7 +11,7 @@
 
     <div class="container">
       <div class="hangman-box">
-        <img src="/vue-project/public/" alt="hangman">
+        <img src="/src/assets/images/hangman-0.svg" alt="hangman" />
         <h6>Hangman Game</h6>
       </div>
       <div class="game-box">
