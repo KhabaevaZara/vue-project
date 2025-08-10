@@ -2,7 +2,7 @@
   <div>
     <div class="game-modal">
       <div class="content">
-        <img src="/vue-project/src/components/images/lost.gif" alt="gif">
+        <img src="/vue-project/public/" alt="gif">
         <h6></h6>
         <p><b></b></p>
         <button class="play-again">Play again</button>
